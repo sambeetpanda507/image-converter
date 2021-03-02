@@ -1,7 +1,7 @@
 # <u>Image Converter</u>
 This is a simple node js image converter
 
-## Install the following packages
+## Install the following packages(npm install to install all the required package)
 - sharp
 - dotenv
 - body-parser
