@@ -1,12 +1,14 @@
-# image-converter
+# <u>Image Converter</u>
 This is a simple node js image converter
 
--- install the following packages
+## Install the following packages
 - sharp
 - dotenv
 - body-parser
 - multer
 - image-size
 - ejs
+#### (Note: if you are in windows os then you might need to install "uuid" in order to work with multer) 
 
-# setup .env file in root folder
+## setup .env file in root folder
+ PORT = <your port number> (Number)
