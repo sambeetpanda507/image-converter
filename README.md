@@ -12,3 +12,5 @@ This is a simple node js image converter
 
 ## setup .env file in root folder
  PORT = <your port number> (Number)
+
+#### (Note: create a image folder in your root directory)
